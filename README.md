@@ -135,8 +135,17 @@ Los registros se guardan en `bitacora.txt` usando `|` como separador de campos:
 
 ---
 
-## Licencia
+## 👨‍💻 Autor
 
-Este proyecto es de uso académico. Libre para modificar y distribuir con fines educativos.
+**Marvin Valdez**
+Ingeniero en Sistemas, Electronica y Electromecanica | Redes | Ciberseguridad | IA
 
 ---
+---
+
+## Tecnologías
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![File I/O](https://img.shields.io/badge/File_I/O-fstream-green?style=flat)
+![Arrays](https://img.shields.io/badge/Estructuras-Arreglos_estáticos-orange?style=flat)
+
