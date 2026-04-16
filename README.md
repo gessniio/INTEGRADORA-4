@@ -5,6 +5,8 @@ TAREA PROGRAMACION ESTRUCTURA / TAREA INTEGRADORA / 2DO SEMESTRE / BLOQUE 1
 
 > Sistema de monitoreo y bitácora para laboratorios de cómputo desarrollado en C++.  
 > Proyecto académico — UNRC
+> LINK MANUAL DIDACTICO: https://sites.google.com/view/integradora-2-do-semestre/integradora-2do-semestre
+
 
 ---
 
