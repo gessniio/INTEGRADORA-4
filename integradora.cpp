@@ -4,10 +4,10 @@
 using namespace std;
 
 // =============================================
-// ESTRUCTURA DE LOS DATOS
+// ESTRUCTURA DE DATOS
 // =============================================
 
-// ESTADO DE CADA UNA DE LAS PC QUE TENEMOS
+// ESTADO DE CADA UNA DE LAS PC QUE TENEMOS A NUESTRO RESGUARDO
 struct Computadora
 {
     int id;
@@ -24,7 +24,7 @@ struct RegistroBitacora
 };
 
 // =============================================
-// VARIABLES GLOBALES
+// VARIABLES
 // =============================================
 
 const int TOTAL_EQUIPOS = 20;
@@ -49,7 +49,7 @@ void inicializarEquipos()
     }
 }
 
-// NOS MUERTRA LOS ESTADOS DE NUESTROS EQUIPOS
+// EN ESTA PARTE NOS MUESTRA LOS ESTADOS DE NUESTROS EQUIPOS
 void consultarEstado()
 {
     cout << "\n--- ESTADO DE EQUIPOS ---\n";
